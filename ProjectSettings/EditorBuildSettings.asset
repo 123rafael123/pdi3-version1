@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/NivelVR/Escenas/Nivel_1_Quirofano.unity
+    guid: 25a3e7ee1b3479146849c36f513ab844
+  - enabled: 0
+    path: Assets/NivelVR/Escenas/Nivel_2_Urgencias.unity
+    guid: 6f2d85ce91257404ca711a4be02ec884
+  - enabled: 0
+    path: Assets/NivelVR/Escenas/Nivel_3_Preparacion.unity
+    guid: f8b0b55957b831645ba402e251ad70c5
+  - enabled: 0
+    path: Assets/NivelVR/Escenas/Nivel_4_Recuperacion.unity
+    guid: 3d4541ca963ed504ca859107371ea015
+  - enabled: 0
+    path: Assets/NivelVR/Escenas/Nivel_5_Estabilizacion.unity
+    guid: 4c8278342fe26c642b60a2f28503ae3d
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7ae4264c33673354cafa06155d01f126,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a0e7d7786ac3c7b4ea1fa90b2a291589,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d7f2c5f192b12254096a8a7fc81cb452,
+      type: 2}
